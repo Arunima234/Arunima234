@@ -39,7 +39,7 @@ class Developer:
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Frontend Development</h3>
-      <p>Crafting responsive, animated and accessible UIs using React, TypeScript and modern CSS. Every pixel matters 🌸</p>
+      <p>Crafting responsive, animated and accessible UIs , TypeScript and modern CSS. Every pixel matters 🌸</p>
     </td>
     <td width="50%" valign="top">
       <h3>🐍 Python Development</h3>
@@ -49,7 +49,7 @@ class Developer:
   <tr>
     <td width="50%" valign="top">
       <h3>📊 Visual Analysis</h3>
-      <p>Turning raw data into compelling visual stories with Matplotlib, Seaborn, D3.js and Plotly. Data can be pretty too! ✨</p>
+      <p>Turning raw data into compelling visual stories with Matplotlib, Seaborn and Plotly. Data can be pretty too! ✨</p>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 UI/UX Design</h3>
